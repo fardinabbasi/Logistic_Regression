@@ -6,6 +6,7 @@ Since circular datasets are not **linearly separable**, it is necessary to map t
 $X = [x_1,x_2]^T$
 
 $f(X) = [x_1,x_2,x_1^2,x_1x_2,x_2^2,x_1^3,x_1^2x_2,x_1x_2^2,x_2^3,...,x_1x_2^6,x_2^7]^T; f: R^2 \rightarrow R^{35}$
+
 Here is the implementation of logistic regression with **L2 regularization** built **from scratch**.
 ```ruby
 class LogisticRegression():
@@ -62,6 +63,13 @@ class LogisticRegression():
         return np.where(self.h_theta(X_test, self.theta) > 0.5, 1.0, 0.0)
 ```
 ## First Case
+The first dataset consists of 2 clusters of circular datapoints.
+The center of the first cluster is located at [1.5, 0] with a radius ranging from 4 to 9.
+The second cluster is centered at [1.5, 0] with a radius ranging from 0 to 6.
+Below is a scatter plot of the first dataset.
+
+<img src="/readme_images/a.png">
+
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
 | <img src="/readme_images/a1.png"> | <img src="/readme_images/a2.png"> | <img src="/readme_images/a3.png"> |
