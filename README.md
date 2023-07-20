@@ -82,9 +82,9 @@ Here are the **decision boundaries** fitted for feature maps ranging from **dime
 
 Here are the **accuracy scores** for different degrees of feature map dimensions.
 
-| Degree 1 | Degree 2 | Degree 3 | Degree 4 | Degree 5 | Degree 6 | Degree 7 | Degree 8 | Degree 9 | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 63.3% | 77.5% | 76.6% | 76.6% | 76.6% | 76.6% | 76.6% | 77.5% | 77.5% |
+| Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Accuracy score | 63.3% | 77.5% | 76.6% | 76.6% | 76.6% | 76.6% | 76.6% | 77.5% | 77.5% |
 
 
 ## Second Case
@@ -98,6 +98,6 @@ Here are the **accuracy scores** for different degrees of feature map dimensions
 
 Here are the **accuracy scores** for different degrees of feature map dimensions.
 
-| Degree 1 | Degree 2 | Degree 3 | Degree 4 | Degree 5 | Degree 6 | Degree 7 | Degree 8 | Degree 9 | 
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 63.3% | 77.5% | 76.6% | 76.6% | 76.6% | 76.6% | 76.6% | 77.5% | 77.5% |
+| Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Accuracy score | 63.3% | 77.5% | 76.6% | 76.6% | 76.6% | 76.6% | 76.6% | 77.5% | 77.5% |
