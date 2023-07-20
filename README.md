@@ -20,3 +20,10 @@ $f(X) = [x_1,x_2,x_1^2,x_1x_2,x_2^2,x_1^3,x_1^2x_2,x_1x_2^2,x_2^3,...,x_1x_2^6,x
 
 
 ## Second Case
+| Degree 1 | Degree 2 | Degree 3 |
+| --- | --- | --- |
+| <img src="/readme_images/b1.png"> | <img src="/readme_images/b2.png"> | <img src="/readme_images/b3.png"> |
+| **Degree 4** | **Degree 5** | **Degree 6** |
+| <img src="/readme_images/b4.png"> | <img src="/readme_images/b5.png"> | <img src="/readme_images/b6.png"> |
+| **Degree 7** | **Degree 8** | **Degree 9** |
+| <img src="/readme_images/b7.png"> | <img src="/readme_images/b8.png"> | <img src="/readme_images/b9.png"> 
