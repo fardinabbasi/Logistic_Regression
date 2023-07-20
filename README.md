@@ -69,7 +69,8 @@ The second cluster is centered at [1.5, 0] with a radius ranging from 0 to 6.
 Below is a scatter plot of the first dataset.
 
 <img src="/readme_images/a.png">
-Here are the decision boundaries fitted for feature maps ranging from dimension 1 to 9.
+Here are the decision boundaries fitted for feature maps ranging from dimensions 1 to 9.
+
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
 | <img src="/readme_images/a1.png"> | <img src="/readme_images/a2.png"> | <img src="/readme_images/a3.png"> |
