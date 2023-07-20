@@ -1,5 +1,5 @@
 # Logistic Regression
-Implementing logistic regression with **L2Regularization** **from scratch** to classify two **circular datasets**.
+Implementing logistic regression with **L2 Regularization** **from scratch** to classify two **circular datasets**.
 
 Since circular datasets are not **linearly separable**, it is necessary to map the **feature space** into higher dimensions. For instance, here is a **feature mapping** from 2 dimensions to 32 dimensions.
 
@@ -94,6 +94,8 @@ The second cluster contains **circular datapoints** centered at [1.5, 0] with a 
 Below is a scatter plot of the second dataset.
 
 <img src="/readme_images/b.png">
+
+Here are the **decision boundaries** fitted for feature maps ranging from **dimensions** 1 to 9.
 
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
