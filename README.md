@@ -88,6 +88,13 @@ Here are the **accuracy scores** for different degrees of feature map dimensions
 
 
 ## Second Case
+The second dataset consists of 2 clusters. 
+The datapoints in the first cluster come from a **normal distribution** with a mean of [1, 0] and a standard deviation of 1. 
+The second cluster contains **circular datapoints** centered at [1.5, 0] with a radius ranging from 2 to 6. 
+Below is a scatter plot of the second dataset.
+
+<img src="/readme_images/b.png">
+
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
 | <img src="/readme_images/b1.png"> | <img src="/readme_images/b2.png"> | <img src="/readme_images/b3.png"> |
