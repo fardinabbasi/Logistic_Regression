@@ -63,13 +63,14 @@ class LogisticRegression():
         return np.where(self.h_theta(X_test, self.theta) > 0.5, 1.0, 0.0)
 ```
 ## First Case
-The first dataset consists of 2 clusters of circular datapoints.
+The first dataset consists of 2 clusters of **circular datapoints**.
 The center of the first cluster is located at [1.5, 0] with a radius ranging from 4 to 9.
 The second cluster is centered at [1.5, 0] with a radius ranging from 0 to 6.
-Below is a scatter plot of the first dataset.
+Below is a **scatter plot** of the first dataset.
 
 <img src="/readme_images/a.png">
-Here are the decision boundaries fitted for feature maps ranging from dimensions 1 to 9.
+
+Here are the **decision boundaries** fitted for feature maps ranging from **dimensions** 1 to 9.
 
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
@@ -78,6 +79,8 @@ Here are the decision boundaries fitted for feature maps ranging from dimensions
 | <img src="/readme_images/a4.png"> | <img src="/readme_images/a5.png"> | <img src="/readme_images/a6.png"> |
 | **Degree 7** | **Degree 8** | **Degree 9** |
 | <img src="/readme_images/a7.png"> | <img src="/readme_images/a8.png"> | <img src="/readme_images/a9.png"> |
+
+Here are the **accuracy scores** for different degrees of feature map dimensions.
 
 | Degree 1 | Degree 2 | Degree 3 | Degree 4 | Degree 5 | Degree 6 | Degree 7 | Degree 8 | Degree 9 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -92,6 +95,8 @@ Here are the decision boundaries fitted for feature maps ranging from dimensions
 | <img src="/readme_images/b4.png"> | <img src="/readme_images/b5.png"> | <img src="/readme_images/b6.png"> |
 | **Degree 7** | **Degree 8** | **Degree 9** |
 | <img src="/readme_images/b7.png"> | <img src="/readme_images/b8.png"> | <img src="/readme_images/b9.png"> |
+
+Here are the **accuracy scores** for different degrees of feature map dimensions.
 
 | Degree 1 | Degree 2 | Degree 3 | Degree 4 | Degree 5 | Degree 6 | Degree 7 | Degree 8 | Degree 9 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
