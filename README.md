@@ -68,17 +68,17 @@ The center of the first cluster is located at [1.5, 0] with a radius ranging fro
 The second cluster is centered at [1.5, 0] with a radius ranging from 0 to 6.
 Below is a **scatter plot** of the first dataset.
 
-<img src="/readme_images/a.png">
+<img src="./doc/a.png">
 
 Here are the **decision boundaries** fitted for feature maps ranging from **dimensions** 1 to 9.
 
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
-| <img src="/readme_images/a1.png"> | <img src="/readme_images/a2.png"> | <img src="/readme_images/a3.png"> |
+| <img src="./doc/a1.png"> | <img src="./doc/a2.png"> | <img src="./doc/a3.png"> |
 | **Degree 4** | **Degree 5** | **Degree 6** |
-| <img src="/readme_images/a4.png"> | <img src="/readme_images/a5.png"> | <img src="/readme_images/a6.png"> |
+| <img src="./doc/a4.png"> | <img src="./doc/a5.png"> | <img src="./doc/a6.png"> |
 | **Degree 7** | **Degree 8** | **Degree 9** |
-| <img src="/readme_images/a7.png"> | <img src="/readme_images/a8.png"> | <img src="/readme_images/a9.png"> |
+| <img src="./doc/a7.png"> | <img src="./doc/a8.png"> | <img src="./doc/a9.png"> |
 
 Here are the **accuracy scores** for different degrees of feature map dimensions.
 
@@ -93,20 +93,26 @@ The datapoints in the first cluster come from a **normal distribution** with a m
 The second cluster contains **circular datapoints** centered at [1.5, 0] with a radius ranging from 2 to 6. 
 Below is a scatter plot of the second dataset.
 
-<img src="/readme_images/b.png">
+<img src="./doc/b.png">
 
 Here are the **decision boundaries** fitted for feature maps ranging from **dimensions** 1 to 9.
 
 | Degree 1 | Degree 2 | Degree 3 |
 | --- | --- | --- |
-| <img src="/readme_images/b1.png"> | <img src="/readme_images/b2.png"> | <img src="/readme_images/b3.png"> |
+| <img src="./doc/b1.png"> | <img src="./doc/b2.png"> | <img src="./doc/b3.png"> |
 | **Degree 4** | **Degree 5** | **Degree 6** |
-| <img src="/readme_images/b4.png"> | <img src="/readme_images/b5.png"> | <img src="/readme_images/b6.png"> |
+| <img src="./doc/b4.png"> | <img src="./doc/b5.png"> | <img src="./doc/b6.png"> |
 | **Degree 7** | **Degree 8** | **Degree 9** |
-| <img src="/readme_images/b7.png"> | <img src="/readme_images/b8.png"> | <img src="/readme_images/b9.png"> |
+| <img src="./doc/b7.png"> | <img src="./doc/b8.png"> | <img src="./doc/b9.png"> |
 
 Here are the **accuracy scores** for different degrees of feature map dimensions.
 
 | Degree | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Accuracy score | 63.3% | 77.5% | 76.6% | 76.6% | 76.6% | 76.6% | 76.6% | 77.5% | 77.5% |
+
+## Course Description
+- **Course**: Machine Learning [ECE 501]
+- **Semester**: Spring 2023
+- **Institution:** [School of Electrical & Computer Engineering](https://ece.ut.ac.ir/en/), [College of Engineering](https://eng.ut.ac.ir/en), [University of Tehran](https://ut.ac.ir/en)
+- **Instructors:** Dr. A. Dehaqani, Dr. Tavassolipour
